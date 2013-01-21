@@ -5,7 +5,7 @@ The JaxFun User-Group invites you to participate in this month's project. All le
 # Directions
 
 1. Fork the repo
-2. Create a folder named: ls-<language used>-<githubuser>
+2. Create a folder named: ls-[language used]-[githubuser]
 2. Pick a language, as long as it falls in the functional family.
 3. Start learning!
 4. Submit a pull request before the next meetup
